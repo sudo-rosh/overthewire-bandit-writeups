@@ -27,7 +27,7 @@ Level names follow the OverTheWire site ("0 → 1" is the task that gets you the
 | 11 → 12 | Decode ROT13 text | *(in progress)* | |
 
 ## Contents
-- [`writeups`](writeups/): one write-up per level
+- [`bandit-writeup.md`](bandit-writeup.md): all levels in one file
 - [`linux-commands-cheatsheet.md`](linux-commands-cheatsheet.md): the commands I've used, in one place
 
 ## Credit
